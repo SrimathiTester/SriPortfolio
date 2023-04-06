@@ -85,6 +85,7 @@
 				
 		}
 	};
+	console.log("hello")
 	
 	document.addEventListener( "DOMContentLoaded", function() {
 		var circularBars = new CircularSkillBar( "#bars .bar" );
